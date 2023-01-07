@@ -1,0 +1,11 @@
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\bin\Debug\CGPA_calculator.exe.config
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\bin\Debug\CGPA_calculator.exe
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\bin\Debug\CGPA_calculator.pdb
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\obj\Debug\CGPA_calculator.csproj.AssemblyReference.cache
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\obj\Debug\CGPA_calculator.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\obj\Debug\CGPA_calculator.Form1.resources
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\obj\Debug\CGPA_calculator.Properties.Resources.resources
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\obj\Debug\CGPA_calculator.csproj.GenerateResource.cache
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\obj\Debug\CGPA_calculator.csproj.CoreCompileInputs.cache
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\obj\Debug\CGPA_calculator.exe
+D:\visual studio\assignment _01\CGPA_calculator\CGPA_calculator\obj\Debug\CGPA_calculator.pdb
